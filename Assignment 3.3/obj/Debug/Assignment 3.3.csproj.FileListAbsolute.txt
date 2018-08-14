@@ -1,0 +1,14 @@
+C:\Users\Zach1\source\repos\Assignment 3.3\Assignment 3.3\bin\Debug\Assignment 3.3.exe.config
+C:\Users\Zach1\source\repos\Assignment 3.3\Assignment 3.3\bin\Debug\Assignment 3.3.exe
+C:\Users\Zach1\source\repos\Assignment 3.3\Assignment 3.3\bin\Debug\Assignment 3.3.pdb
+C:\Users\Zach1\source\repos\Assignment 3.3\Assignment 3.3\obj\Debug\Assignment 3.3.csprojResolveAssemblyReference.cache
+C:\Users\Zach1\source\repos\Assignment 3.3\Assignment 3.3\obj\Debug\Assignment 3.3.csproj.CoreCompileInputs.cache
+C:\Users\Zach1\source\repos\Assignment 3.3\Assignment 3.3\obj\Debug\Assignment 3.3.exe
+C:\Users\Zach1\source\repos\Assignment 3.3\Assignment 3.3\obj\Debug\Assignment 3.3.pdb
+C:\Users\wwstudent\Desktop\projects\C# code\Bus Fare\Assignment 3.3\bin\Debug\Assignment 3.3.exe.config
+C:\Users\wwstudent\Desktop\projects\C# code\Bus Fare\Assignment 3.3\bin\Debug\Assignment 3.3.exe
+C:\Users\wwstudent\Desktop\projects\C# code\Bus Fare\Assignment 3.3\bin\Debug\Assignment 3.3.pdb
+C:\Users\wwstudent\Desktop\projects\C# code\Bus Fare\Assignment 3.3\obj\Debug\Assignment 3.3.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\projects\C# code\Bus Fare\Assignment 3.3\obj\Debug\Assignment 3.3.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\projects\C# code\Bus Fare\Assignment 3.3\obj\Debug\Assignment 3.3.exe
+C:\Users\wwstudent\Desktop\projects\C# code\Bus Fare\Assignment 3.3\obj\Debug\Assignment 3.3.pdb
